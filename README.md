@@ -15,7 +15,7 @@ Bạn được phép sử dụng, chỉnh sửa và chia sẻ lại tác phẩm 
 * **Liên kết Giấy phép CC BY 4.0:** https://creativecommons.org/licenses/by/4.0/
 
 ## TỆP GỐC
-- [infographic.png](image.png)
+- [infographic.png](IMG_8597.png)
 
 # VIDEO NGẮN: LỢI ÍCH CỦA CÔNG NGHỆ SỐ
 
@@ -23,8 +23,8 @@ Video ngắn (30 giây) giới thiệu lợi ích của công nghệ số trong 
 
 ## XEM VIDEO
 
-[**NHẤN VÀO ĐÂY ĐỂ XEM VIDEO MP4**](<Dán liên kết Google Drive của bạn vào đây>) 
-*(Video được lưu trữ trên Google Drive do giới hạn kích thước tệp của GitHub.)*
+[**NHẤN VÀO ĐÂY ĐỂ XEM VIDEO MP4**](CCD38450-1337-47FD-9FB4-82E3451D7270.mp4) 
+
 
 ---
 
